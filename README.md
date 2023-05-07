@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="180"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/volodymyr-podufalyy-6710b5208/">
@@ -24,7 +24,7 @@
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -41,3 +41,10 @@
 </p>
 
 ---
+
+### :trophy: Github Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=volodymyrpodufalyy)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volodymyrpodufalyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
